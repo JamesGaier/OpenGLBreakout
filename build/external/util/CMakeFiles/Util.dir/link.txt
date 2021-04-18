@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUtil.a CMakeFiles/Util.dir/src/Shader.cpp.o CMakeFiles/Util.dir/src/Texture2D.cpp.o
+/usr/bin/ranlib libUtil.a
